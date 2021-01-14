@@ -1,5 +1,5 @@
 # Termux-tutorial
-Full tutorial of Termux
+Basic tutorial of Termux
 
 
 ![](https://i.ibb.co/99VXPwT/Termux.jpg)
@@ -14,6 +14,7 @@ with Termux you can learn command line,Linux and make your
 own script and make your own program.
 
 **3**) *How to use*
+
 It's simple
 
 ***Command's***
@@ -21,8 +22,8 @@ It's simple
 **ifconfig**  to show ip address
 
 **cd**  to change directory
+*Example* you are in **home** directory
 
-**cd directoryName**  to go that directory
 
 **cd ..**  to return to previous directory
 
@@ -31,8 +32,11 @@ It's simple
 
 **cp filename fileNameUWant**  to copy fill or folder
 
+
 **cp filename destinationPath**  to copy a file to a different directory
 
+
+**cat filename**  to print file contains
 
 
 
