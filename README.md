@@ -22,12 +22,36 @@ It's simple
 **ifconfig**  to show ip address
 
 **cd**  to change directory
+
+
 *Example* you are in **home** directory
+Which Is **/data/data/com.termux/files/home** and
+ you want want to go to **host** directory 
+
+
+***cd host***
+
+
+![](https://raw.githubusercontent.com/thelearn-tech/Termux-tutorial/main/IMG_20210114_122340.jpg)
 
 
 **cd ..**  to return to previous directory
 
-**mv filename destinationPath**  to move file to different directory
+
+**mv**  to move file to different directory
+
+
+
+**Example** you want to move **https.conf** file to host 
+directory 
+
+That is **mv filename directoryname**
+
+Command is ***mv httpd.conf host***
+
+![](https://raw.githubusercontent.com/thelearn-tech/Termux-tutorial/main/IMG_20210114_123702.jpg)
+
+
 
 
 **cp filename fileNameUWant**  to copy fill or folder
