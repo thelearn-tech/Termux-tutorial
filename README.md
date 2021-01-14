@@ -42,7 +42,7 @@ D) **mv**  to move file to different directory
 
 
 
-**Example** you want to move **https.conf** file to host 
+**Example** you want to move **httpd.conf** file to host 
 directory 
 
 That is **mv filename directoryname**
@@ -50,6 +50,8 @@ Or **mv filename path**
 
 Command is ***mv httpd.conf host***
 Or **mv httpd.conf /data/data/com.termux/files/home/host**
+
+Here **httpd.conf** and is **file name** and **host** is **directory name**.
 
 ![](https://raw.githubusercontent.com/thelearn-tech/Termux-tutorial/main/IMG_20210114_123702.jpg)
 
@@ -79,18 +81,23 @@ That we create a new file in **host** directory
  called **httpd.conf** which has same contains as **httpd.conf** which is in home directory
 
 
-**cat filename**  to print file contains
+**touch** to create new file
+
+*Example* **touch host** will create a empty file called **host**
 
 
+**cat**  to print file contains
+
+*Example* **cat host** will show content of **host** file.
 
 
+4)**short cuts**
 
+You can go to ***usr*** directory by typing **cd $PREFIX**
 
+When you are moving a file to **home** directory type **mv filename $HOME**
+Or **cp filename $HOME**
 
-
-type **cd** in any directory ,and you will return to home 
+type **cd** in any directory ,and you will return to **home** 
 director which is ***/data/data/com.termux/files/home*** 
 
-Type
-
-To be continued...
