@@ -3,18 +3,19 @@ Basic tutorial of Termux
 
 
 ![](https://i.ibb.co/99VXPwT/Termux.jpg)
-**1**) *What is Termux*
+**1**) ***What is Termux***
+
 **Termux** in a nut shell is a pretty advance **Linux** emulator
  for Android.
 
 Download [**Termux**](https://play.google.com/store/apps/details?id=com.termux)
 
-**2**)*USAGE*
+**2**)***USAGE***
 
 with Termux you can learn command line,Linux and make your 
 own script and make your own program.
 
-**3**) *How to use*
+**3**) ***How to use***
 
 
 ***In built Command's***
@@ -91,7 +92,7 @@ That we create a new file in **host** directory
 *Example* **cat host** will show content of **host** file.
 
 
-4)**short cuts**
+**4**)***short cuts***
 
 You can go to ***usr*** directory by typing **cd $PREFIX**
 
